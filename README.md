@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on Bash, ML projects
+- 🔭 I’m currently collaborating on [Health-bridge](https://github.com/pooranjoyb/health-bridge)
 - 🌱 I’m currently learning Flutter
-- 🤔 I’m looking for help with anything I can :)
+- 🤔 I’m looking to help with anything I can :)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: WINE is Not An Emulator !
 
