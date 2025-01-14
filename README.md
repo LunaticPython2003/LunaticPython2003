@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently collaborating on [Arch-BTW](https://github.com/LunaticPython2003/Arch-BTW)
+- 🔭 I’m currently collaborating on [WinAssist](https://github.com/LunaticPython2003/WinAssist)
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking to help with anything I can :)
 - 😄 Pronouns: He/Him
@@ -21,4 +21,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br> <br>
-![Snake animation](https://github.com/LunaticPython2003/LunaticPython2003/blob/output/github-contribution-grid-snake.svg)
